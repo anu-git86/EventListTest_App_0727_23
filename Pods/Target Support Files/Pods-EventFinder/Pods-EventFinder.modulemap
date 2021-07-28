@@ -1,0 +1,6 @@
+module Pods_EventFinder {
+  umbrella header "Pods-EventFinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
